@@ -19,7 +19,7 @@ Opção 1: Usando uma IDE (Recomendado)
 
 1. Clone o repositório para sua máquina:
    ```bash
-   git clone https://github.com/seu-usuario/agenda-contatos.git
+   git clone https://github.com/vitooreis/agenda-contatos.git
    ```
 2. Abra o projeto em sua IDE favorita (VS Code, IntelliJ, Eclipse, etc.).
 3. Execute a classe principal → Agenda.java.
