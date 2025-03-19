@@ -27,6 +27,7 @@ Opção 1: Usando uma IDE (Recomendado)
 Opção 2: Pelo terminal (sem IDE)
 Se preferir rodar sem uma IDE, siga estes passos:
 ```bash
+git clone https://github.com/vitooreis/agenda-contatos.git
 cd agenda-contatos
 mkdir -p bin  
 javac -d bin -sourcepath src src/application/Agenda.java  
