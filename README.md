@@ -38,6 +38,7 @@ java -cp bin application.Agenda
 ## ⚠️ Problemas enfrentados
 
 Problema: Criar uma classe com Regex para validar entrada de dados.
+
 Descrição: Ao implementar a classe RegexValidator, precisei entender como regex funciona para restringir entradas indesejadas, como caracteres especiais em nomes ou formatos errados de telefone e e-mail.
 
 Solução: Utilizei expressões regulares adequadas para cada tipo de dado:
